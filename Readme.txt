@@ -3,6 +3,7 @@
 
 使用ffmpeg 3.3、SDL2.0，均是32位版本，VS2017编译
 目前添加了两个项目：
-最简单的基于FFMPEG+SDL的视频播放器 ver2 （采用SDL2.0） （http://blog.csdn.net/leixiaohua1020/article/details/38868499）以及其中的多线程刷新版本
+1, 最简单的基于FFMPEG+SDL的视频播放器 ver2 （采用SDL2.0） （http://blog.csdn.net/leixiaohua1020/article/details/38868499）
+2, 其中的多线程刷新版本
 
 后续会继续添加
